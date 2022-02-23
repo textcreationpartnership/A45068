@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Protestants of France to the French-King, to recall his declaration for taking their children from them at the age of seven years</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45068</idno>
+            <idno type="STC">Wing H3576</idno>
+            <idno type="STC">ESTC R659</idno>
+            <idno type="EEBO-CITATION">13065048</idno>
+            <idno type="OCLC">ocm 13065048</idno>
+            <idno type="VID">97051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Protestants of France to the French-King, to recall his declaration for taking their children from them at the age of seven years</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. for Andrew Forrester ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Church and state --  France.</term>
+               <term>Huguenots.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:97051:1" rendition="simple:additions"/>
+            <head>The Humble PETITION OF THE <hi>Proteſtants of France</hi> TO THE French-KING, To Recall His Declaration for taking their Children from them at the Age of Seven Years.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Majeſties Proteſtant Subjects of the Reformed Religion, moſt humbly repreſent to your Majeſty, That the regiſtring of your Ma<g ref="char:EOLhyphen"/>jeſties Declaration of the 17<hi rend="sup">th.</hi> of <hi>June</hi> laſt, plunges them into a De<g ref="char:EOLhyphen"/>ſolation, which ſcarcely leaves them the free uſe of their ſences. Yet they preſume to addreſs to your Majeſty, perſwaded, that being, as they are moſt Humble and Loyal Subjects, the acceſs to your Majeſties Juſtice will not be denied them, and that your Majeſty will not reject their Complaints; therein imitating God, whoſe Ears are always open to the Cries of the Di<g ref="char:EOLhyphen"/>ſtreſſed.</p>
+            <p>In this Confidence, (Sir) proſtrate at your Majeſties Feet, with all the hum<g ref="char:EOLhyphen"/>ble Reverence they are capable of, they beſeech your Majeſty to conſider, That this Declaration is directly contrary to the Edict of <hi>Nants,</hi> under which they live, and which was given them as a perpetual and irrevokable Law. For, beſides that this Edict of <hi>Nants</hi> neceſſarily ſuppoſes, that they ſhould enjoy all the Rights, both Natural and Civil, that are common to all your Majeſties Subjects; and that, among theſe Rights, that which makes Parents Maſters of the Education of their Children, till they attain ripeneſs of age, is one of the moſt Sacred and Inviolable, it is, upon the account of theſe Articles alſo, their due and indiſputable Right.</p>
+            <p>The 18<hi rend="sup">th.</hi> Article expreſly forbids that any of their Children, who are of the ſaid Religion, ſhould, either by force or perſwaſion, contrary to the will of their Parents, be taken away from them, to be Baptized or Confirmed in the <hi>Roman Catholick</hi> Church. Without all contradiction, this prohibition ex<g ref="char:EOLhyphen"/>tends beyond ſeven years of age, ſince that none are Confirmed till after that age; and if it be not preciſely ſet down till the age of 14. that is to ſay, during all the time that Children are not of years of conſent, and have no legal will, the reaſon is, becauſe it was preſuppoſed, as a Maxim which was never yet called into queſtion. It is in the ſame ſenſe that the 38<hi rend="sup">th.</hi> Article is, concerning the particulars which gives to the Parents, profeſſing the ſaid Religion, liberty to provide ſuch Tutors for their Children as they think good, and ſubſtitute one or more, either by Wills or Codicels, or other Declarati<g ref="char:EOLhyphen"/>ons paſt in the preſence of Notaries, or written and ſigned with their own hands. Your Majeſty (Sir) is moſt humbly prayed to weigh exactly this term of Tutors, even after the death of their Fathers; for it clearly demon<g ref="char:EOLhyphen"/>ſtrates that the Edict had reſpect to the Right of Parents over their Children,
+<pb n="2" facs="tcp:97051:2"/>not only during their own lives Inviolable, but as a Right extending it ſelf after their Death; which no zeal of Religion, or other pretence whatſoever, can infringe; and far from being limited to the age of ſeven years, it main<g ref="char:EOLhyphen"/>tains and keeps it ſelf in force, during the whole courſe of their Education, which ſcarcely begins at that age, and is very much reſtrained, when it is confined within the term of 14 years, the age of natural ripeneſs.</p>
+            <p>Sir, the Edict of <hi>Nants</hi> was not the firſt Law in this Caſe; By the Petition anſwered in the year 1571. in the Reign of King <hi>Charles</hi> IX. a time in which thoſe of the Proteſtant Reformed Religion were moſt afflicted, the Rights of Parents over their Children were ſo Inviolable, that it was ſaid in the 24<hi rend="sup">th.</hi> Article, that they ſhould not be moleſted in the Inſtruction of their Children in their own Religion, according to their Conſciences; and that after the death of the Fathers, thoſe Children ſhould be bred up in the ſame Religion, till they accompliſhed 14 years of age, at which time they ſhould be at liberty.</p>
+            <p>But none of your Majeſties Predeceſſors have more eſtabliſhed the Autho<g ref="char:EOLhyphen"/>rity of this Law, than your Majeſty; For, beſides ſeveral Orders given in your Majeſties Council of State, in the years 1663. and 1665. which are full and plain in the Caſe, the Declaration of 1669. doth expreſly forbid all ſorts of perſons whatſoever, not only to take away by force or ſtealth any of the Chil<g ref="char:EOLhyphen"/>dren of the ſaid Religion, but alſo to preſume to inſtruct them, or to perſwade them to make any Declaration of the change of their Religion, before the Males arrive to to the age of 14. and the Females of 12. and in the mean time, before they accompliſh this age, that the Children born of Fathers of the ſaid Religi<g ref="char:EOLhyphen"/>on, ſhould remain in the hands of their Kindred of the ſaid Religion, and all thoſe that ſhould detain them, ſhould be conſtrained to render them by the uſual ways and means of recovery. The ſame thing was confirmed by a De<g ref="char:EOLhyphen"/>termination which the Archbiſhop of <hi>Rhemes</hi> cauſed to be ſet forth, in the month of <hi>Auguſt</hi> 1676. by which he judged and and declared, That no Maid ſhould be received into the <hi>Houſe of the Propagation of the Faith at Sedan,</hi> till ſhe had fully accompliſhed 12 years of age, and that ſhe had plain<g ref="char:EOLhyphen"/>ly ſhewed a true deſire of Converſion; preſuppoſing, that there could not be an effective Converſion before that age.</p>
+            <p>If yet (Sir) your Majeſty will condeſcend to hear the moſt humble Re<g ref="char:EOLhyphen"/>monſtrances of your Supplicants, let it pleaſe your Majeſty to permit them to ſet before you, that there will be a vaſt difference found between your Ma<g ref="char:EOLhyphen"/>jeſties own Declaration in 1669. and this. The firſt left unto Nature its Priviledges, and unto men the liberty of acting according to their Con<g ref="char:EOLhyphen"/>ſciences; No ways thwarted the Principles of Civil and Canon-Law, nor hindred Parliaments from proceeding according their ordinary Rules: This gave to ſtrangers a pattern worthy of their imitation, and to the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick</hi> Religion, the glory of preſerving meaſures of Equity, conformable to the practice of all the ancient Churches. But, on the other hand, this Law no ways agrees with all theſe Noble Characters. Nature will ſuffer violence, when Children ſhall be torn from the Boſoms of thoſe to whom ſhe had at ſeven years of age more eſpecially committed them then before, becauſe that at that age they begin to be capable of Inſtruction, and their Fathers then actually enter into poſſeſſion of their Right to give it them. The Con<g ref="char:EOLhyphen"/>ſciences of your Petitioners will thereby be brought into the moſt extream perplexity that can be imagined, in as much as the right exerciſe of the pa<g ref="char:EOLhyphen"/>ternal authority is one of the ſtrongeſt and moſt indiſpenſible Duties of which man is to render an account to God, whereby the Father is made re<g ref="char:EOLhyphen"/>ſponſible before him for all the Actions of his Children as a Truſt repoſed in him by Nature as long as they continue under his Direction. Civil and Ec<g ref="char:EOLhyphen"/>cleſiaſtical Rites further plead for the Supplicants; for if Children are ca<g ref="char:EOLhyphen"/>pable
+<pb n="3" facs="tcp:97051:2"/>before their ripe age of chooſing a Religion, which is the moſt Impor<g ref="char:EOLhyphen"/>tant Action of the whole life, why are they not allowed either to make Wills, or to bear any valuable Teſtimony in the Courts of Juſtice, or to make Vows, or to paſs any Act of the free conſent of their wills? Sir, your Parlia<g ref="char:EOLhyphen"/>ments, which complying with thoſe Maxims, have never made Children liable to Capital Puniſhments, will find themſelves obliged to aboliſh this Cuſtom and Uſage of all Nations and all Ages; for the Children of 7 years old being rendred capable of changing their Religion, are at the ſame time rendred ca<g ref="char:EOLhyphen"/>pable of falling into the Crime of thoſe they call <hi>Relapſers,</hi> and made liable to the capital Puniſhments of it, ordained by your Laws, foreign Nations and even thoſe that are Infidels, will believe themſelves authoriz'd by this example, againſt thoſe who profeſs a Religion contrary to theirs. To conclude, the Roman Ca<g ref="char:EOLhyphen"/>tholick Religion will not be honour'd by it, when it ſhall be ſaid, that it is the Iſſue of Converſions at 7 years old, that is to ſay, in an Age wherein Rea<g ref="char:EOLhyphen"/>ſon hath no force, nor Judgment no Rule, and by conſequence the change of Religion cannot proceed from a legitimate choice. It may be added that this Law breaks off from the practice of the whole Chriſtian Church, for ſuppoſe the Supplicants Hereticks, it is a conſtant Truth, that the Church never took away Children under Age from thoſe that were regarded as Infi<g ref="char:EOLhyphen"/>dels, living with them in the ſame Civil Society.</p>
+            <p>It was (untill now) never known among Chriſtians, and other Nations of the World, that the paternal power of Parents over their children hath been limited to ſeven years of Age, principally in the point of their Religion. One of the greateſt Doctors of the Roman Catholick Church decides the Caſe, that the Children of the Jews ought not to be baptiz'd againſt the will of their Parents, for two Reaſons; One, that the practice of the Church never gave any countenance to it. The other, that natural Righteouſneſs oppoſes it. In effect, when ſome Kings of <hi>Spain</hi> or <hi>Portugal,</hi> as <hi>Sizibuts,</hi> and <hi>Em<g ref="char:EOLhyphen"/>manuel</hi> the ſecond, have attempted it, the 4th. Councel of <hi>Tolledo</hi> oppos'd the action of the firſt, and all the World condemn'd the other. And <hi>Oſorius</hi> a Famous Biſhop, who relates the Ordinance of <hi>Emmanuel,</hi> appointing the Male-children of the Jews to be taken away under the age of 14. Years, ſays, that it was an Action that had no foundation either in Law or Religion, tho it ſeem'd to proceed from a good Intention, and had an appearance of Piety, becauſe that God requires of men a voluntary Sacrifice, and will not that Conſciences be forc'd, to which he adds the horrible circumſtances that ac<g ref="char:EOLhyphen"/>companied this Law, wen thoſe unhappy Fathers, who fear'd to have their Children raviſht from them, fell into ſuch exceſs of Raging grief, that they caſt their Children into wells and themſelves with them. The Supplicants fear nothing like that by the Grace of God, and the Juſtice of your Maje<g ref="char:EOLhyphen"/>ſty. But yet they are perſwaded the Declaration cannot be executed againſt them, but with moſt deplorable conſequences.</p>
+            <p>Let it not be ſaid, that it commands not to force the children out of the boſom of their Parents, but only puts them into a freedom of chuſing the Catholick Religion; for in the firſt place, the force is not to be conſidered as acted upon the Children but on their Fathers, to whom Nature gave them. The ſame forecited <hi>Doctor</hi> makes the ſame judgment and argument in the Caſe; Injuſtice (ſayes he) would be done to the Jews, if their Children ſhould be baptiz'd againſt their conſent; for the paternal power which they have over their children, would be injuriouſly forc'd from them. He adds, It is that which the Church never did, even when it had Catholick Princes, as <hi>Conſtantine</hi> and <hi>Theodoſius,</hi> who had no doubt permitted it, if it had not been a practice contrary to Right Reaſon. Alſo the Edict of <hi>Nants</hi> in the
+<pb n="4" facs="tcp:97051:3" rendition="simple:additions"/>18. Article equally forbids Force and Perſwaſion, and gives the name of Violence to both. And all the Ordinances have as ſeverely provided for the the puniſhment of the Rape of Perſwaſion, as that of Force. But in the ſecond place it is an act of Force and Violence to take children at ſeven years old out of the hands of their parents, as well as if they were ſtill hanging on the breaſt. For if Natural and Civil Right puts Children under the power of their Fathers till their ripe age, it is the ſame thing to take them out of it ſeven years old, as if they were forc'd from them out of the Cradle; for the paternal power is equally violated in both.</p>
+            <p>If it be ſaid that Children at ſeven years old are capable of mortal ſin, and that being ſo, they may make choice of a Religion; beſides, that to ſpeak generally, this Principle is very uncertain, and that it would be a ſtrange courſe to judge the Supplicants according to Principles which they acknow<g ref="char:EOLhyphen"/>ledge not; Who ſees not <hi>(Sir)</hi> that the Conſequence is not juſt, and that there is great difference between the firſt Ideas of Good and Ill which children may have in the Actions of their life, and the Capacity of Judging in matters of Religion, or rather determining whether they ſhould forget the Faith where<g ref="char:EOLhyphen"/>in they have been educated, to embrace another which is unknown to them, and thus to make a Choyce which is the greateſt Effort of the underſtanding of a Man, when he wholly applies himſelf to ſeek after his Salvation.</p>
+            <p>Your Petitioners will not here inſiſt on the ſad and miſchievous Conſe<g ref="char:EOLhyphen"/>quences of the execution of this Law, which appears ſo terrible to them. The deſpair into which Fathers and Mothers will be driven, the unavoidable diſagreement between them and their children, the perverting the Order intended by Nature for their education who begin by a ſubmiſſion to the will of their Parents, to be formed into ſubjection to Magiſtrates and Princes, and rendred good Commonwealths-men. The forced flight of many Fami<g ref="char:EOLhyphen"/>lies out of the Realm, The <hi>Libertiniſm</hi> of Children, who will no more fear Correction, and who will always have a pretence to withdraw themſelves from it, whereby even the Fruitfulneſs of Marriages, which is the ſupport of Commonwealths, will come to be apprehended, and a multitude of Quarrels will every day ariſe amongſt all ſorts of people; Which, together with a thouſand other Inconveniences will enſue to the diſturbance of Civil So<g ref="char:EOLhyphen"/>ciety.</p>
+            <p>Your Petitioners are with the reſt of the World convinced that Your Ma<g ref="char:EOLhyphen"/>jeſty can execute whatſoever you do reſolve; but they alſo know that you are pleaſed to temper your Authority and Power with your Bounty and Ju<g ref="char:EOLhyphen"/>ſtice, according to the example of God himſelf, who never diſplays his infi<g ref="char:EOLhyphen"/>nite Power over his Creatures, but that at the ſame time he regards them with eyes of Compaſſion. Thus <hi>(Sir)</hi> it is your Juſtice that the Supplicants in the exceſs of their Sorrows, implore; To it they addreſs their Cries and Teares; And, without Failing in the duty they owe to your Majeſties Or<g ref="char:EOLhyphen"/>ders, it is to it they preſume to ſay, that they ſhall chaſe all manner of Suffe<g ref="char:EOLhyphen"/>rings, and even death it ſelf, rather than to endure a ſeparation from their Children in ſo tender an age, and to be made uncapable of rendring that account to God of them, which their Conſciences layes an obligation upon them to enddeavour.</p>
+            <p>For theſe Reaſons, may it pleaſe your Majeſty by Revoking the new <hi>De<g ref="char:EOLhyphen"/>claration</hi> of the 17th. of <hi>June</hi> laſt paſt to Ordain that the <hi>Declaration</hi> in the Month of <hi>February</hi> 1669 may be executed according to its Form and Tenor. And your Petitioners will continue their Vowes and Prayers for your Maje<g ref="char:EOLhyphen"/>ſties Health and Proſperity, and the Glory of your Reign.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed by</hi> N.T. <hi>for</hi> Andrew Forreſter <hi>in</hi> King's-ſtreet Westminſter, <hi>1681.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
